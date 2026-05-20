@@ -1,17 +1,17 @@
 <p align="right">
   <a href="#projects-ive-worked-on-english">🌐 English Version</a> | 
-  <a href="#projects-ive-worked-on-한국어">🌐 한국어 버전</a> | 
-  <a href="#projects-ive-worked-on-日本語">🌐 日本語バージョン</a>
+  <a href="#내가-참여한-프로젝트-한국어">🌐 한국어 버전</a> | 
+  <a href="#参画プロジェクト-日本語">🌐 日本語バージョン</a>
 </p>
 
 ---
 
-## Projects I've Worked On (English)
+# Projects I've Worked On (English)
 
-### TEAM RUNWAY (Team Project)
+## TEAM RUNWAY (Team Project)
 
 <details>
-<summary><b><code><span style="color: #1f4d2b;">[Project-Unbound]</span></code> (Titanomachia)</b></summary>
+<summary><b><span style="color: #1f4d2b;">[Project-Unbound]</span> (Titanomachia)</b></summary>
 <blockquote>
 <br>
 
@@ -35,7 +35,7 @@
 </details>
 
 <details>
-<summary><b><code><span style="color: #1f4d2b;">[Project-SilverBullet]</span></code></b></summary>
+<summary><b><span style="color: #1f4d2b;">[Project-SilverBullet]</span></b></summary>
 <blockquote>
 <br>
 
@@ -57,11 +57,10 @@
 </blockquote>
 </details>
 
-
-### My Own Project
+## My Own Project
 
 <details>
-<summary><b><code><span style="color: #1f4d2b;">[Project-Far_Side_of_the_Moon]</span></code></b></summary>
+<summary><b><span style="color: #1f4d2b;">[Project-Far_Side_of_the_Moon]</span></b></summary>
 <blockquote>
 <br>
 
@@ -81,32 +80,77 @@
 </blockquote>
 </details>
 
+## Other Projects
+
+<details>
+<summary><b><span style="color: #1f4d2b;">[cn-chat]</span></b></summary>
+<blockquote>
+<br>
+
+A real-time chatting application consisting of a Django-based backend and a React-based frontend.
+
+#### Tech Stacks
+- Backend: Django, Django REST Framework, Django Channels (WebSocket)
+- Frontend: React
+- Database: SQLite (For local development)
+- Authentication: JWT Token-based authentication
+
+#### My Roles & Responsibilities
+- Implemented file transfer features excluding images (documents/audio file transfer development)
+
+#### Links
+- https://github.com/psw204/cn-chat
+
+<br>
+</blockquote>
+</details>
+
+<details>
+<summary><b><span style="color: #1f4d2b;">[Object_Oriented_Programming]</span></b></summary>
+<blockquote>
+<br>
+
+Reptile Growth Diary Application "My Rep" Development Project
+
+#### Tech Stacks
+- Android Studio, C++
+
+#### My Roles & Responsibilities
+- Frontend & backend, mainpage and diarypage development
+
+#### Links
+- https://github.com/Ophelia0419/Object_Oriented_Programming
+
+<br>
+</blockquote>
+</details>
+
 <br>
 <br>
 
 ---
 
-## Projects I've Worked On (한국어)
+# 내가 참여한 프로젝트 (한국어)
 
-### TEAM RUNWAY (Team Project)
+## TEAM RUNWAY (팀 프로젝트)
 
 <details>
-<summary><b><code><span style="color: #1f4d2b;">[Project-Unbound]</span></code> (Titanomachia)</b></summary>
+<summary><b><span style="color: #1f4d2b;">[Project-Unbound]</span> (Titanomachia)</b></summary>
 <blockquote>
 <br>
 
 **항공대 소프트웨어학과 6인 협업 프로젝트** 교내 게임공모전 출품을 목표로 제작된 그리스 로마 신화 기반의 2D 메트로베니아 액션 게임입니다.
 
-#### Tech Stacks
+#### 기술 스택
 ![Unity](https://img.shields.io/badge/Unity-2022.3+-black?style=flat-square&logo=Unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-%23239120?style=flat-square&logo=c-sharp&logoColor=white)
 
-#### My Roles & Responsibilities
+#### 역할
 | 분류 | 상세 내용 |
 | :--- | :--- |
 | **기획 & 디자인** | 게임 메인 기획, 스토리 라인 구축, 레벨 디자인 및 맵 에셋 제작 |
 | **개발 (Dev)** | UI 시스템, 게임 맵 구현 및 오브젝트 상호작용 로직 개발 |
 
-#### Links
+#### 링크
 - [빌드 파일 다운로드 (Google Drive)](https://drive.google.com/file/d/15Y4yAB_2_XdKhQOHlKSqdXLDX4dgoEs0/view?usp=sharing)
 - *본 저장소는 소속 조직의 보안 정책으로 인해 비공개(Private)로 관리되고 있습니다.*
 
@@ -115,21 +159,21 @@
 </details>
 
 <details>
-<summary><b><code><span style="color: #1f4d2b;">[Project-SilverBullet]</span></code></b></summary>
+<summary><b><span style="color: #1f4d2b;">[Project-SilverBullet]</span></b></summary>
 <blockquote>
 <br>
 
 **Run & Gun Platformer Game** 적이 발사한 총알을 역으로 이용하는 독특한 회피 기동 중심의 플랫포머 액션 게임입니다.
 
-#### Tech Stacks
+#### 기술 스택
 ![Unity](https://img.shields.io/badge/Unity-2022.3+-black?style=flat-square&logo=Unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-%23239120?style=flat-square&logo=c-sharp&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-%238D52D5?style=flat-square&logo=Aseprite&logoColor=white)
 
-#### My Roles & Responsibilities
+#### 역할
 - **World Build:** 전체 게임 스토리 라인 구상
 - **Level Design:** 핵심 플레이 구역 레벨 디자인 및 전용 맵 구성
 - **Art:** 픽셀 아트를 활용한 맵 배경 및 에셋 디자인
 
-#### Links
+#### 링크
 - *Now Making...*
 - *본 저장소는 소속 조직의 보안 정책으로 인해 비공개(Private)로 관리되고 있습니다.*
 
@@ -137,25 +181,69 @@
 </blockquote>
 </details>
 
-
-### My Own Project
+## 개인 프로젝트
 
 <details>
-<summary><b><code><span style="color: #1f4d2b;">[Project-Far_Side_of_the_Moon]</span></code></b></summary>
+<summary><b><span style="color: #1f4d2b;">[Project-Far_Side_of_the_Moon]</span></b></summary>
 <blockquote>
 <br>
 
 **Story-driven Platformer with Fighting Mechanism** 플랫포머의 지형지물 이동과 대전 격투 게임의 정교한 커맨드 조작을 결합하여, 다채로운 손맛과 역동적인 서사를 전달하는 게임입니다.
 
-#### Tech Stacks
+#### 기술 스택
 ![Unity](https://img.shields.io/badge/Unity-2022.3+-black?style=flat-square&logo=Unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-%23239120?style=flat-square&logo=c-sharp&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-%238D52D5?style=flat-square&logo=Aseprite&logoColor=white)
 
-#### My Roles & Responsibilities
+#### 역할
 - **1인 전담 개발 (Solo Project):** 기획, 시나리오, 맵 레벨 디자인, 아트 에셋 드로잉, 클라이언트 기능 개발 전반 총괄
 
-#### Links
+#### 링크
 - *Now Making...*
 - *본 저장소는 보안 및 IP 보호를 위해 비공개(Private)로 관리되고 있습니다.*
+
+<br>
+</blockquote>
+</details>
+
+## 기타 프로젝트
+
+<details>
+<summary><b><span style="color: #1f4d2b;">[cn-chat]</span></b></summary>
+<blockquote>
+<br>
+
+Django 기반 백엔드와 React 기반 프론트엔드로 구성된 실시간 채팅 애플리케이션
+
+#### 기술 스택
+- 백엔드: Django, Django REST Framework, Django Channels (WebSocket)
+- 프론트엔드: React
+- 데이터베이스: SQLite (로컬 개발용)
+- 인증 시스템: JWT 토큰 기반 인증
+
+#### 역할
+- 이미지 외 파일 전송 기능 구현 (문서/오디오 전송)
+
+#### 링크
+- https://github.com/psw204/cn-chat
+
+<br>
+</blockquote>
+</details>
+
+<details>
+<summary><b><span style="color: #1f4d2b;">[Object_Oriented_Programming]</span></b></summary>
+<blockquote>
+<br>
+
+파충류 성장 기록 앱 "My Rep" 개발 프로젝트
+
+#### 기술 스택
+- Android Studio, C++
+
+#### 역할
+- Frontend & backend, mainpage and diarypage
+
+#### 링크
+- https://github.com/Ophelia0419/Object_Oriented_Programming
 
 <br>
 </blockquote>
@@ -166,12 +254,12 @@
 
 ---
 
-## Projects I've Worked On (日本語)
+# 参画プロジェクト (日本語)
 
-### TEAM RUNWAY (Team Project)
+## TEAM RUNWAY (チームプロジェクト)
 
 <details>
-<summary><b><code><span style="color: #1f4d2b;">[Project-Unbound]</span></code> (Titanomachia)</b></summary>
+<summary><b><span style="color: #1f4d2b;">[Project-Unbound]</span> (Titanomachia)</b></summary>
 <blockquote>
 <br>
 
@@ -195,7 +283,7 @@
 </details>
 
 <details>
-<summary><b><code><span style="color: #1f4d2b;">[Project-SilverBullet]</span></code></b></summary>
+<summary><b><span style="color: #1f4d2b;">[Project-SilverBullet]</span></b></summary>
 <blockquote>
 <br>
 
@@ -217,11 +305,10 @@
 </blockquote>
 </details>
 
-
-### My Own Project
+## 個人プロジェクト
 
 <details>
-<summary><b><code><span style="color: #1f4d2b;">[Project-Far_Side_of_the_Moon]</span></code></b></summary>
+<summary><b><span style="color: #1f4d2b;">[Project-Far_Side_of_the_Moon]</span></b></summary>
 <blockquote>
 <br>
 
@@ -236,6 +323,51 @@
 #### リンク
 - *Now Making... (開発進行中)*
 - *※本リポジトリは、セキュリティおよび知的財産権保護のため、非公開(Private)として管理されています。*
+
+<br>
+</blockquote>
+</details>
+
+## その他のプロジェクト
+
+<details>
+<summary><b><span style="color: #1f4d2b;">[cn-chat]</span></b></summary>
+<blockquote>
+<br>
+
+DjangoベースのバックエンドとReactベースのフロントエンドで構成されたリアルタイムチャットアプリケーションです。
+
+#### 開発スタック
+- バックエンド: Django, Django REST Framework, Django Channels (WebSocket)
+- フロントエンド: React
+- データベース: SQLite (ローカル開発用)
+- 認証システム: JWTトークンベース認証
+
+#### 担当領域
+- 画像以外のファイル転送機能の実装 (文書/オーディオ転送機能開発)
+
+#### リンク
+- https://github.com/psw204/cn-chat
+
+<br>
+</blockquote>
+</details>
+
+<details>
+<summary><b><span style="color: #1f4d2b;">[Object_Oriented_Programming]</span></b></summary>
+<blockquote>
+<br>
+
+爬虫類成長記録アプリ「My Rep」開発プロジェクト
+
+#### 開発スタック
+- Android Studio, C++
+
+#### 担当領域
+- フロントエンド・バックエンド、メインページおよびダイアリーページの開発
+
+#### リンク
+- https://github.com/Ophelia0419/Object_Oriented_Programming
 
 <br>
 </blockquote>
