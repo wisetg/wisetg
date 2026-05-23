@@ -11,6 +11,26 @@
 ## TEAM RUNWAY (Team Project)
 
 <details>
+<summary><b><span style="color: #1f4d2b;">[Project-Antact]</span></b></summary>
+<blockquote>
+<br>
+
+**Top-Down Scenario-Based Tank Game** A top-down tank game where players can select and play through various scenarios.
+
+#### Tech Stacks
+![Unity](https://img.shields.io/badge/Unity-2022.3+-black?style=flat-square&logo=Unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-%23239120?style=flat-square&logo=c-sharp&logoColor=white)
+
+#### My Roles & Responsibilities
+- **Development & Design:** Map & Level Design, Map Asset Creation, Development
+
+#### Links
+- [Download Build File (Google Drive)](https://drive.google.com/file/d/1WI4Lfdg1rSZul93EKCI6PXANoGaXxVdg/view?usp=sharing)
+
+<br>
+</blockquote>
+</details>
+
+<details>
 <summary><b><span style="color: #1f4d2b;">[Project-Unbound]</span> (Titanomachia)</b></summary>
 <blockquote>
 <br>
@@ -21,10 +41,8 @@
 ![Unity](https://img.shields.io/badge/Unity-2022.3+-black?style=flat-square&logo=Unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-%23239120?style=flat-square&logo=c-sharp&logoColor=white)
 
 #### My Roles & Responsibilities
-| Category | Details |
-| :--- | :--- |
-| **Planning & Design** | Main game planning, storyline structuring, level design, and map asset creation |
-| **Development** | UI system, game map implementation, and object interaction logic development |
+- **Planning & Design:** Main game planning, storyline structuring, level design, and map asset creation
+- **Development:** UI system, game map implementation, and object interaction logic development
 
 #### Links
 - [Download Build File (Google Drive)](https://drive.google.com/file/d/15Y4yAB_2_XdKhQOHlKSqdXLDX4dgoEs0/view?usp=sharing)
@@ -90,13 +108,13 @@
 A real-time chatting application consisting of a Django-based backend and a React-based frontend.
 
 #### Tech Stacks
-- Backend: Django, Django REST Framework, Django Channels (WebSocket)
-- Frontend: React
-- Database: SQLite (For local development)
-- Authentication: JWT Token-based authentication
+- **Backend:** ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/Django_REST-a30000?style=flat-square&logo=django&logoColor=white)
+- **Frontend:** ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+- **Database:** ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+- **Auth:** ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 #### My Roles & Responsibilities
-- Implemented file transfer features excluding images (documents/audio file transfer development)
+- **Development:** Implemented file transfer features excluding images (documents/audio file transfer development)
 
 #### Links
 - https://github.com/psw204/cn-chat
@@ -113,10 +131,10 @@ A real-time chatting application consisting of a Django-based backend and a Reac
 Reptile Growth Diary Application "My Rep" Development Project
 
 #### Tech Stacks
-- Android Studio, C++
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 #### My Roles & Responsibilities
-- Frontend & backend, mainpage and diarypage development
+- **Development:** Frontend & backend, mainpage and diarypage development
 
 #### Links
 - https://github.com/Ophelia0419/Object_Oriented_Programming
@@ -135,6 +153,26 @@ Reptile Growth Diary Application "My Rep" Development Project
 ## TEAM RUNWAY (팀 프로젝트)
 
 <details>
+<summary><b><span style="color: #1f4d2b;">[Project-Antact]</span></b></summary>
+<blockquote>
+<br>
+
+**탑다운 시나리오 탱크 게임** 시나리오를 골라서 플레이하는 탑다운 뷰 형식의 탱크 게임입니다.
+
+#### 기술 스택
+![Unity](https://img.shields.io/badge/Unity-2022.3+-black?style=flat-square&logo=Unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-%23239120?style=flat-square&logo=c-sharp&logoColor=white)
+
+#### 역할
+- **기획 및 개발:** 맵 및 레벨 디자인, 맵 에셋 제작, 개발 전반
+
+#### 링크
+- [빌드 파일 다운로드 (Google Drive)](https://drive.google.com/file/d/1WI4Lfdg1rSZul93EKCI6PXANoGaXxVdg/view?usp=sharing)
+
+<br>
+</blockquote>
+</details>
+
+<details>
 <summary><b><span style="color: #1f4d2b;">[Project-Unbound]</span> (Titanomachia)</b></summary>
 <blockquote>
 <br>
@@ -145,10 +183,8 @@ Reptile Growth Diary Application "My Rep" Development Project
 ![Unity](https://img.shields.io/badge/Unity-2022.3+-black?style=flat-square&logo=Unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-%23239120?style=flat-square&logo=c-sharp&logoColor=white)
 
 #### 역할
-| 분류 | 상세 내용 |
-| :--- | :--- |
-| **기획 & 디자인** | 게임 메인 기획, 스토리 라인 구축, 레벨 디자인 및 맵 에셋 제작 |
-| **개발 (Dev)** | UI 시스템, 게임 맵 구현 및 오브젝트 상호작용 로직 개발 |
+- **기획 & 디자인:** 게임 메인 기획, 스토리 라인 구축, 레벨 디자인 및 맵 에셋 제작
+- **개발 (Dev):** UI 시스템, 게임 맵 구현 및 오브젝트 상호작용 로직 개발
 
 #### 링크
 - [빌드 파일 다운로드 (Google Drive)](https://drive.google.com/file/d/15Y4yAB_2_XdKhQOHlKSqdXLDX4dgoEs0/view?usp=sharing)
@@ -214,13 +250,13 @@ Reptile Growth Diary Application "My Rep" Development Project
 Django 기반 백엔드와 React 기반 프론트엔드로 구성된 실시간 채팅 애플리케이션
 
 #### 기술 스택
-- 백엔드: Django, Django REST Framework, Django Channels (WebSocket)
-- 프론트엔드: React
-- 데이터베이스: SQLite (로컬 개발용)
-- 인증 시스템: JWT 토큰 기반 인증
+- **백엔드:** ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/Django_REST-a30000?style=flat-square&logo=django&logoColor=white)
+- **프론트엔드:** ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+- **데이터베이스:** ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+- **인증 시스템:** ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 #### 역할
-- 이미지 외 파일 전송 기능 구현 (문서/오디오 전송)
+- **개발:** 이미지 외 파일 전송 기능 구현 (문서/오디오 전송)
 
 #### 링크
 - https://github.com/psw204/cn-chat
@@ -237,10 +273,10 @@ Django 기반 백엔드와 React 기반 프론트엔드로 구성된 실시간 �
 파충류 성장 기록 앱 "My Rep" 개발 프로젝트
 
 #### 기술 스택
-- Android Studio, C++
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 #### 역할
-- Frontend & backend, mainpage and diarypage
+- **개발:** Frontend & backend, mainpage and diarypage 개발
 
 #### 링크
 - https://github.com/Ophelia0419/Object_Oriented_Programming
@@ -259,6 +295,26 @@ Django 기반 백엔드와 React 기반 프론트엔드로 구성된 실시간 �
 ## TEAM RUNWAY (チームプロジェクト)
 
 <details>
+<summary><b><span style="color: #1f4d2b;">[Project-Antact]</span></b></summary>
+<blockquote>
+<br>
+
+**トップダウン・シナリオ型戦車ゲーム** シナリオを選択してプレイするトップダウンビューの戦車ゲームです。
+
+#### 開発スタック
+![Unity](https://img.shields.io/badge/Unity-2022.3+-black?style=flat-square&logo=Unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-%23239120?style=flat-square&logo=c-sharp&logoColor=white)
+
+#### 担当領域
+- **企画および開発:** マップおよびレベルデザイン、マップアセット制作、開発全般
+
+#### リンク
+- [ビルドファイルのダウンロード (Google Drive)](https://drive.google.com/file/d/1WI4Lfdg1rSZul93EKCI6PXANoGaXxVdg/view?usp=sharing)
+
+<br>
+</blockquote>
+</details>
+
+<details>
 <summary><b><span style="color: #1f4d2b;">[Project-Unbound]</span> (Titanomachia)</b></summary>
 <blockquote>
 <br>
@@ -269,10 +325,8 @@ Django 기반 백엔드와 React 기반 프론트엔드로 구성된 실시간 �
 ![Unity](https://img.shields.io/badge/Unity-2022.3+-black?style=flat-square&logo=Unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-%23239120?style=flat-square&logo=c-sharp&logoColor=white)
 
 #### 担当領域
-| 区分 | 業務詳細 |
-| :--- | :--- |
-| **企画・デザイン** | ゲームメイン企画、シナリオ構築、レベルデザイン、およびマップアセット制作 |
-| **開発 (Dev)** | UIシステム、ゲームマップ実装、およびオブジェクト相互作用ロジック開発 |
+- **企画・デザイン:** ゲームメイン企画、シナリオ構築、レベルデザイン、およびマップアセット制作
+- **開発 (Dev):** UIシステム、ゲームマップ実装、およびオブジェクト相互作用ロジック開発
 
 #### リンク
 - [ビルドファイルのダウンロード (Google Drive)](https://drive.google.com/file/d/15Y4yAB_2_XdKhQOHlKSqdXLDX4dgoEs0/view?usp=sharing)
@@ -338,13 +392,13 @@ Django 기반 백엔드와 React 기반 프론트엔드로 구성된 실시간 �
 DjangoベースのバックエンドとReactベースのフロントエンドで構成されたリアルタイムチャットアプリケーションです。
 
 #### 開発スタック
-- バックエンド: Django, Django REST Framework, Django Channels (WebSocket)
-- フロントエンド: React
-- データベース: SQLite (ローカル開発用)
-- 認証システム: JWTトークンベース認証
+- **バックエンド:** ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/Django_REST-a30000?style=flat-square&logo=django&logoColor=white)
+- **フロントエンド:** ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+- **データベース:** ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+- **認証システム:** ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 #### 担当領域
-- 画像以外のファイル転送機能の実装 (文書/オーディオ転送機能開発)
+- **開発:** 画像以外のファイル転送機能の実装 (文書/オーディオ転送機能開発)
 
 #### リンク
 - https://github.com/psw204/cn-chat
@@ -361,10 +415,10 @@ DjangoベースのバックエンドとReactベースのフロントエンドで
 爬虫類成長記録アプリ「My Rep」開発プロジェクト
 
 #### 開発スタック
-- Android Studio, C++
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 #### 担当領域
-- フロントエンド・バックエンド、メインページおよびダイアリーページの開発
+- **開発:** フロントエンド・バックエンド、メインページおよびダイアリーページの開発
 
 #### リンク
 - https://github.com/Ophelia0419/Object_Oriented_Programming
