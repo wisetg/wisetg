@@ -57,17 +57,18 @@ I like exploring why a game feels engaging—from the stories it tells to the ch
 - **Excellence Award (Team)** — 4th Tetris Game-thon, Korea Aerospace University (Dec 2025), for *Titanomachia*.
 - **Research co-author** — *Design of Open-Ended Biosignal Synchrony Art*, registered for IICCC 2026.
 
-
 ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="./profile/stats.svg" alt="Taegun's GitHub Stats" height="165" />
+  <img src="./profile/top-langs.svg" alt="Most Used Languages" height="165" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=wisetg&theme=transparent&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
-[View my GitHub activity](https://github.com/wisetg?tab=overview&from=2026-01-01&to=2026-12-31)
-
-<sub>Contribution statistics are provided by a third-party service.</sub>
-
+<sub>Stats and language cards are generated daily by GitHub Actions. Language usage reflects repository code, not proficiency. The streak card is provided by a third-party service.</sub>
 
 ## 🔗 Find Me
 
